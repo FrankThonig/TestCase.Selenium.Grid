@@ -1,4 +1,4 @@
-# Browser Test Automation with Selenium -
+# Browser Test Automation with Selenium
 ## Test Case: Web Search
 
 ##### Table of Contents
