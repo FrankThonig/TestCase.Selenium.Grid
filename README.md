@@ -944,7 +944,7 @@ withEnv([
 	"JAVA_HOME=${javaHome}"])
 	{
 	
-	bat "mvn -Dmaven.test.failure.ignore=true test"
+		bat "mvn -Dmaven.test.failure.ignore=true test"
 	
 	}
 ```
