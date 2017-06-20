@@ -914,7 +914,7 @@ The project user needs to specify his TestNG XML report pattern to match this pr
 
 ##### *Pipeline*
 
-Configuration of a Pipeline is handled by the `swtestsLocalPipeline_Jenkinsfile` Jenkinsfile.
+Configuration of a Pipeline is handled by the `seleniumWebSearchGridPipeline_Jenkinsfile` Jenkinsfile.
 
 *Git configuration*
 

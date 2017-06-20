@@ -2,7 +2,7 @@
   
   <modelVersion>4.0.0</modelVersion>
   <groupId>com</groupId>
-  <artifactId>grid</artifactId>
+  <artifactId>selenium.websearch.grid</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
   <dependencies>
